@@ -1,0 +1,12 @@
+target/
+*.class
+*.jar
+*.war
+*.log
+.DS_Store
+.env
+erro.md
+erro.txt
+resultado.txt
+build.log
+/tmp/

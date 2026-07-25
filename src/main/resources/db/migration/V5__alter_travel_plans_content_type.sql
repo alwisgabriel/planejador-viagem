@@ -1,0 +1,1 @@
+ALTER TABLE travel_plans ALTER COLUMN content TYPE TEXT;

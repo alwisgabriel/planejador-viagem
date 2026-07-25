@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    url: ${DATASOURCE_URL:jdbc:postgresql://localhost:5432/planejador_viagem}
+    username: ${DATASOURCE_USERNAME:planejador}
+    password: ${DATASOURCE_PASSWORD:planejador_dev}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  flyway:
+    enabled: true
+
+groq:
+  api-key: ${GROQ_API_KEY:}
+  model: ${GROQ_MODEL:llama-3.3-70b-versatile}
+
+jwt:
+  secret: ${JWT_SECRET:chave-super-secreta-para-desenvolvimento-local-com-256bits}
+
+server:
+  port: ${PORT:8080}
