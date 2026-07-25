@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/0adf62b8-6376-4943-b9c2-b3b5c82dd8ed
 
 ## 🧠 Sobre o Projeto
 
-Este é um projeto **Build to Learn** — o objetivo principal foi aprender na prática os fundamentos de **arquitetura hexagonal (Ports and Adapters)**, **TDD** e integração com **IA**, seguindo o método de desenvolvimento de **Fábio Akita**.
+Este é um projeto **Build to Learn**  o objetivo principal foi aprender na prática os fundamentos de **arquitetura hexagonal (Ports and Adapters)**, **TDD** e integração com **IA**, seguindo o método de desenvolvimento de **Fábio Akita**.
 
 ### Inspiração
 
