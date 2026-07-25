@@ -2,7 +2,14 @@
 
 API REST para planejamento de viagens com geração de roteiros personalizados por IA.
 
-> 🎥 **Vídeo do sistema funcionando:** *[coloque aqui o link do vídeo]*
+> 🎥 **Vídeo do sistema funcionando:**
+
+
+https://github.com/user-attachments/assets/0adf62b8-6376-4943-b9c2-b3b5c82dd8ed
+
+
+
+
 
 ---
 
