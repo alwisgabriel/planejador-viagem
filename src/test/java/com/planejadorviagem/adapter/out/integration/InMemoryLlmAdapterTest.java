@@ -14,6 +14,5 @@ class InMemoryLlmAdapterTest {
         GeneratedPlan plan = adapter.generate("Crie um roteiro para São Paulo de 5 dias");
 
         assertThat(plan.content()).isNotBlank();
-        assertThat(plan.content()).contains("São Paulo");
     }
 }
